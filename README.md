@@ -22,4 +22,5 @@ Method: POST
 {"text":"your text"}
 ```
 
+![screenshot](img.png)
 
